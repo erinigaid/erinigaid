@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erinigaid" alt="erinigaid" /></a> </p>
 
-- 🌱 I’m currently learning **Automotive Embedded Systems and Embedded Linux**
+- 🌱 I’m a **Computer Science Student**
 
-- 💬 Ask me about **Programming especially C and Embedded Systems**
 
 - 📫 How to reach me **erinisgaid@gmail.com**
 
