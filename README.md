@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erini</h1>
 <h3 align="center">A passionate  Software Engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erinigaid" alt="erinigaid" /></a> </p>
 
 - 🌱 I’m a **Computer Science gradute**
-- CConsultant at Big 4 | Working at the intersection of AI and cybersecurity (proprietary client work)
+- Consultant at Big 4 | Working at the intersection of AI and cybersecurity (proprietary client work)
 
 
 - 📫 How to reach me **erinisgaid@gmail.com**
